@@ -1,4 +1,3 @@
-![logo](https://github.com/Danyal-Khursheed/Danyal-Khursheed/blob/main/Blue%20%26%20white%20minimal%20linkedin%20profile%20cover%20image.png)
 <h1 align="center">Hi 👋, I'm Danyal Khursheed</h1>
 <h3 align="center">As a Computer Systems Engineer, I possess adept proficiency in Full Stack and MERN Stack development, driven by a fervent passion for advancing technological solutions.</h3>
 
