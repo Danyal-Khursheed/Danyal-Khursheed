@@ -1,32 +1,241 @@
-<h1 align="center">Hi 👋, I'm Danyal Khursheed</h1>
-<h3 align="center">As a Computer Systems Engineer, I possess adept proficiency in Full Stack and MERN Stack development, driven by a fervent passion for advancing technological solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danyal-khursheed&label=Profile%20views&color=0e75b6&style=flat" alt="danyal-khursheed" /> </p>
+<!-- ================= HEADER ================= -->
 
-- 🌱 I’m currently learning **Web Sockets**
-
-- 💬 Ask me about **Full Stack and Mern Stack**
-
-- 📫 How to reach me **danyalkhursheed9@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g2GBI_V8KdSRVoGL88M6ar8dFIyz9-H9/view?usp=sharing](https://drive.google.com/file/d/1g2GBI_V8KdSRVoGL88M6ar8dFIyz9-H9/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/danyalkhurshee5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danyalkhurshee5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danyalkhursheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyalkhursheed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/danyal khursheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="danyal khursheed" height="30" width="40" /></a>
-<a href="https://fb.com/danyal.khursheed.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danyal.khursheed.92" height="30" width="40" /></a>
-<a href="https://instagram.com/danidanyal9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danidanyal9" height="30" width="40" /></a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=230&section=header&text=Danyal%20Khursheed&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=17" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Danyal Khursheed</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danyal-khursheed&show_icons=true&locale=en&layout=compact" alt="danyal-khursheed" /></p>
+<h3 align="center">
+  Full-Stack Software Engineer | 3+ Years of Industry Experience
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyal-khursheed&show_icons=true&locale=en" alt="danyal-khursheed" /></p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=danyal-khursheed">
+    <img src="https://komarev.com/ghpvc/?username=danyal-khursheed&label=Profile%20Views&color=2563EB&style=flat" />
+  </a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-purple?style=flat" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyal-khursheed&" alt="danyal-khursheed" /></p>
+---
+
+<!-- ================= ABOUT ================= -->
+
+## 👨‍💻 About Me
+
+I'm a Computer Systems Engineer and Full-Stack Software Engineer with **3+ years of professional experience** building modern web applications, enterprise solutions, and scalable backend systems.
+
+I enjoy turning complex business requirements into reliable software solutions, designing backend architectures, integrating third-party services, and building intuitive user experiences.
+
+- 🔭 Currently working on enterprise applications and backend systems.
+- 🌱 Exploring **Python, FastAPI, AI Engineering, and Agentic AI**.
+- 💻 Experienced in React, Next.js, NestJS, Node.js, and PostgreSQL.
+- ⚙️ Interested in scalable architectures, system design, and automation.
+- 🤖 Exploring AI-powered applications and intelligent workflows.
+- 🌍 Worked on projects for Saudi Arabian businesses.
+- 📫 Reach me at: **danyalkhursheed9@gmail.com**
+
+---
+
+<!-- ================= EXPERIENCE ================= -->
+
+## 💼 Professional Experience & Collaborations
+
+### E3 Ventures (Saudi Arabia)
+**Full-Stack Software Engineer**
+
+- Developing enterprise-grade applications and digital solutions for Saudi Arabian clients.
+- Building scalable frontend and backend systems using React, Next.js, NestJS, and PostgreSQL.
+- Designing RESTful APIs, database architectures, and business workflows.
+- Integrating third-party services, payment gateways, ERP systems, and enterprise automation solutions.
+- Contributing to production applications across food technology, enterprise management, and event management.
+
+### Shwra × MechKnowSoft (Saudi Arabia)
+**Full-Stack Developer**
+
+- Contributed to the development of Saudi Arabia's first AI-powered law firm.
+- Developed AI-powered legal automation workflows and full-stack application features.
+- Built backend services, API integrations, and responsive user interfaces.
+- Helped modernize legal service delivery through intelligent automation.
+
+### Cleara × MechKnowSoft (Saudi Arabia)
+**Full-Stack Developer**
+
+- Contributed to a Saudi-based digital cleaning services platform.
+- Developed frontend and backend features for service management.
+- Built API integrations, database functionality, and responsive interfaces.
+- Helped streamline cleaning service operations through digital solutions.
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">18 Degree</h3>
+<p align="center">
+  <strong>Enterprise Food Ordering Platform</strong>
+</p>
+<p>
+  A multilingual food ordering and enterprise management ecosystem featuring payment integrations, wallet management, company accounts, and ERP synchronization.
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nestjs,postgres,docker" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">Shwra</h3>
+<p align="center">
+  <strong>AI-Powered Legal Platform</strong>
+</p>
+<p>
+  A legal technology platform focused on AI-powered automation, intelligent workflows, and modernizing legal service delivery in Saudi Arabia.
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Cleara</h3>
+<p align="center">
+  <strong>Digital Cleaning Services Platform</strong>
+</p>
+<p>
+  A Saudi-based cleaning services platform focused on digital service management and streamlined business operations.
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,ts" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">Threshold</h3>
+<p align="center">
+  <strong>Events & Management Platform</strong>
+</p>
+<p>
+  Event management and administrative workflows with role-based access, management dashboards, and business process automation.
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nestjs,postgres,ts" />
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
+</p>
+
+### Databases & ORM
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma" />
+</p>
+
+### DevOps & Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" />
+</p>
+
+### AI & Automation
+
+<p align="left">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" />
+</p>
+
+---
+
+<!-- ================= CURRENT FOCUS ================= -->
+
+## 🌱 Currently Exploring
+
+- Advanced Python and FastAPI.
+- AI Engineering and LLM integrations.
+- Agentic AI and AI-powered automation.
+- Backend architecture and system design.
+- Distributed systems and message queues.
+- Scalable database design and optimization.
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danyal-khursheed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyal-khursheed&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=danyal-khursheed&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=danyal-khursheed&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/danyalkhursheed">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/danyalkhurshee5">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x" />
+  </a>
+  <a href="mailto:danyalkhursheed9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1g2GBI_V8KdSRVoGL88M6ar8dFIyz9-H9/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-16A34A?style=for-the-badge&logo=googledrive" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building today. Innovating tomorrow."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=100&section=footer" />
+</p>
